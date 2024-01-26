@@ -1,0 +1,22 @@
+Computer Basics
+-------------------------------------------------------------------------
+
+1.Computer is a electronic device which accepts the data and 
+	process it to produce the accurate output.
+
+2.RAM stands for Random Access Memory,this is a temporary memory
+	or volatile memory which stores the data as long as the power is 'on'
+
+3.Data in computer is stored in secondary memory or hard disk.
+
+4.Keyboard
+
+5.Output devices are those which helps the user to display or produce 
+	the information.
+
+6.Mouse
+
+7.Machine Level Language (0's and 1's) 
+
+8.The devices that accepts the information from the user such as 
+  keyboard ,mouse,joystick etc
